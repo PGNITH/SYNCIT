@@ -1,3 +1,2 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+#SYNCIT
+A REAL-TIME COLLABORATIVE CODE EDITOR FOR INTERVIEWS
